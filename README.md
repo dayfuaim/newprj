@@ -1,2 +1,2 @@
 # newprj
-New repository for code playing. :)
+New repository for `code` playing. :)
